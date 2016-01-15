@@ -5,7 +5,7 @@ session_start();
 <html lang="es">
 <head>
 <meta charset = "utf-8">
-<title> Formulario JC </title>
+<title> Formulario  </title>
 </head>
 <body>
 <header></header>
