@@ -5,7 +5,7 @@ session_start();
 <html lang="es">
 <head>
 <meta charset = "utf-8">
-<title> Login JC </title>
+<title> Login </title>
 </head>
 <body>
 <header></header>
